@@ -73,7 +73,7 @@
     ],
     "snow": "",
     "uniqCompNum": 29,
-    "versionPublish": "4.12.4",
+    "versionPublish": "5.0.18",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
@@ -82,7 +82,7 @@
     "google-analytics": "",
     "siteUrl": "undefined",
     "imageResize": true,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
